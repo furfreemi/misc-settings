@@ -1,0 +1,7 @@
+[alias]
+	amend = commit --amend --no-edit
+	cm = commit -m
+	st = status
+	pr = pull --rebase
+	co = checkout
+	dc = diff --cached
